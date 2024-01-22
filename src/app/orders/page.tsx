@@ -2,7 +2,7 @@ import React from "react";
 
 function OrdersPage() {
   return (
-    <div className="p-4 lg:px-20 xl:40">
+    <div className="p-4 lg:px-20 xl:40 h-[calc(100vh-6rem)] md:h-[calc(100vh-9rem)]">
       <table className="w-full border-separate border-spacing-3">
         <thead>
           <tr className="text-left">
